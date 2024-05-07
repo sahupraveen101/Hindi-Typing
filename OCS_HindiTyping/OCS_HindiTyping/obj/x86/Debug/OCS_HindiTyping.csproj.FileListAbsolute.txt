@@ -1,0 +1,12 @@
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\OCS_HindiTyping.Form1.resources
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\OCS_HindiTyping.frm1.resources
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\OCS_HindiTyping.Properties.Resources.resources
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\OCS_HindiTyping.Resources.resources
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\bin\Debug\OCS_HindiTyping.exe.config
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\bin\Debug\OCS_HindiTyping.exe
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\bin\Debug\OCS_HindiTyping.pdb
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\OCS_HindiTyping.exe
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\OCS_HindiTyping.pdb
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DotNet-Practices\OCS_HindiTyping\OCS_HindiTyping\obj\x86\Debug\GenerateResource.write.1.tlog
